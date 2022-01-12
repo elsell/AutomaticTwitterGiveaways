@@ -3,3 +3,6 @@ build/
 __pycache__/
 *.spec
 .vscode/
+*.csv
+*.json
+*.zip
