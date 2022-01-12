@@ -7,6 +7,7 @@
 - [Configuration](#configuration)
 - [Developer Notes](#developer-notes)
     - [Having issues?](#having-issues)
+    - [Are you a student?](#if-youre-a-student)
 
 ## Quick Start
 **Choose from one of these two options:**
@@ -105,6 +106,9 @@ OutputFileName=followsAndRetweets.csv
 Debug=False
 ```
 
+
+---------------------
+
 ## Developer Notes
 First and foremost, I acknowledge that this tool has a pretty narrow
 use-case. It was designed and built to solve a specific problem for 
@@ -116,7 +120,20 @@ Python experience, please fork this repo and modify as needed!
 
 > I will keep a list of all current (functionally-additive) forks and their use-cases in this repo. 
 
+
 ### Having issues?
 Please [create an issue](https://github.com/elsell/AutomaticTwitterGiveaways/issues/)! I don't provide any warranty with this 
 software, but I will be happy to give your issue a look. It also helps others
 who may be looking to use this software determine if it is a good fit for them 🙂
+
+### If you're a student
+There is some messy code in here! Code duplication is through 
+the roof at some points. There are better, more Pythontic ways to
+do what this does. 
+
+So if this bothers you AND you have time to do something about it,
+please use this repo as an opportunity to delve into the open-source world!
+Fork, make some changes, and submit a pull-request. 
+
+The project is relatively small and would be a great introduction
+to contributing to the FOSS world :)
