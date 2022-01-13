@@ -15,7 +15,7 @@
 ### 1. Download a pre-built Executable
 *This method does not require installing any dependencies*
 
-1. [Download the Latest Release](#)
+1. [Download the Latest Release](https://github.com/elsell/AutomaticTwitterGiveaways/releases)
 2. Extract the files.
 3. Modify `twitter_giveaway_config.ini` to suit your needs (See [Configuration](#configuration))
 4. Double-click on `Run Twitter Giveaway.exe`!
