@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/elsell/AutomaticTwitterGiveaways/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/elsell/AutomaticTwitterGiveaways/actions/workflows/codeql-analysis.yml)
+
 # 🎁 AutomaticTwitterGiveaways 🎁
 ### AutomaticTwitterGiveaways automates selecting winners for "Retweet, Comment, Follow" type Twitter giveaways. 
 
