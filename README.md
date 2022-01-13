@@ -1,4 +1,4 @@
-# 🐣 AutomaticTwitterGiveaways 🐣
+# 🎁 AutomaticTwitterGiveaways 🎁
 ### AutomaticTwitterGiveaways automates selecting winners for "Retweet, Comment, Follow" type Twitter giveaways. 
 
 
