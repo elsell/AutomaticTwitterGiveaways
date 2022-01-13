@@ -20,7 +20,7 @@ assignees: ''
 **Screenshots**
 *If applicable, add screenshots to help explain your problem.*
 
-**Desktop (please complete the following information):**
+**System Information (please complete the following information):**
  - OS: [e.g. Windows10]
  - Python Version (if not using the .EXE release) [e.g. 3.7]
  - ATG Version [e.g. 0.0.1]
